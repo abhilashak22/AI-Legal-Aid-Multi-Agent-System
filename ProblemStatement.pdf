@@ -1,0 +1,17 @@
+Problem Statement: AI Legal Aid Multi-Agent System
+
+The Challenge:
+Access to legal advice is often expensive, time-consuming, and complex. Individuals and small businesses struggle to understand contracts, rights, and compliance due to scattered resources and legal jargon. Traditional legal aid systems are limited by availability of experts and lack of real-time support.
+
+The Objective:
+Build an AI-powered Multi-Agent Legal Aid System that can:
+
+1. Legal Information Retrieval (RAG) – Use Retrieval-Augmented Generation to extract and summarize relevant laws, precedents, and compliance rules from large legal corpora.
+2. Document Parsing & Analysis – Automatically analyze contracts, policies, and notices to highlight key clauses, obligations, and potential risks.
+3. Conversational Legal Assistant – Provide empathetic, easy-to-understand explanations of legal concepts through natural dialogue (with disclaimers: not a substitute for a lawyer).
+4. Specialized Multi-Agents:
+   • Contract Reviewer Agent: Flag risks and inconsistencies.
+   • Compliance Checker Agent: Verify adherence to rules/regulations.
+   • Q&A RAG Agent: Answer user-specific queries.
+   • Case Research Agent: Fetch relevant judgments or case summaries.
+5. User-Friendly Dashboard – Deliver recommendations, case insights, and document highlights in a structured, visual format.
